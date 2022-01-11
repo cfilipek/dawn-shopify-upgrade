@@ -3,7 +3,8 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "desktop_text_box_position": "flex-end"
+        "desktop_text_box_position": "flex-end",
+        "desktop_text_box_side": "center"
       },
       "blocks": {
         "heading": {

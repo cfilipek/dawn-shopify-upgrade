@@ -727,6 +727,13 @@
         "logo": {
           "label": "Logo image"
         },
+        "nav_image": {
+          "label": "Mega Nav Image"
+        },
+        "nav_image_width": {
+          "unit": "px",
+          "label": "Mega Nav Width"
+        },
         "logo_width": {
           "unit": "px",
           "label": "Custom logo width"
